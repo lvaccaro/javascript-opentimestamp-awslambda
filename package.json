@@ -1,0 +1,15 @@
+{
+  "name": "javascript-opentimestamps-awslambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Vaccaro",
+  "license": "LGPL",
+  "dependencies": {
+    "async": "^2.5.0",
+    "javascript-opentimestamps": "^0.2.1"
+  }
+}
